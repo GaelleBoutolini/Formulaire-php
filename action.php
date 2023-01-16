@@ -13,6 +13,7 @@
     <p><b>Email</b> : <?php echo htmlspecialchars($_POST['email']); ?></p>
     <p><b>Message</b> : <?php echo htmlspecialchars($_POST['message']); ?></p>
     <p><b>Pays</b> : <?php echo htmlspecialchars($_POST['pays']); ?></p>
+    <p><b>Ville</b> : <?php echo htmlspecialchars($_POST['ville']); ?></p>
     <p><b>Langue</b> : <?php echo htmlspecialchars($_POST['lang']); ?></p>
 </body>
 </html>

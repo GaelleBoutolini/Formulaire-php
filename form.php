@@ -24,6 +24,8 @@
            
             <label> Pays: </label>
             <input name="pays" type="text" required> <br />
+            <label> Ville: </label>
+            <input name="ville" type="text" required> <br />
             
             <label> Langue: </label>
             <input name="lang" type="text" required> <br />
